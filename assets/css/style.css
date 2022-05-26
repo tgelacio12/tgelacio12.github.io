@@ -592,3 +592,20 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/*--------------------------------------------------------------
+Button (Download) Styles
+--------------------------------------------------------------*/
+.dl-btn {
+  background-color: #173b6c;
+  border: none;
+  color: white;
+  padding: 12px 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.dl-btn:hover {
+  background-color: #396a93;
+}
